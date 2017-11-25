@@ -1,5 +1,5 @@
 #
-#     Codeigniter - Remove htaccess file from URL
+#     Codeigniter - Remove index.php from URL
 #
 
 #
